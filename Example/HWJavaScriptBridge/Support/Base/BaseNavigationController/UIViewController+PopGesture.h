@@ -2,7 +2,7 @@
 //  UIViewController+PopGesture.h
 //  JSServiceDemo
 //
-//  Created by ihenryhuang on 2022/1/22.
+//  Created by bbc6bae9 on 2022/1/22.
 //
 
 #import <UIKit/UIKit.h>

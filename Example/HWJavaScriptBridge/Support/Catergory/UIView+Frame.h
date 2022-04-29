@@ -2,7 +2,7 @@
 //  UIView+Frame.h
 //  CardDemo
 //
-//  Created by ihenryhuang on 2019/10/30.
+//  Created by bbc6bae9 on 2019/10/30.
 //  Copyright © Howen Technology All rights reserved.
 //
 

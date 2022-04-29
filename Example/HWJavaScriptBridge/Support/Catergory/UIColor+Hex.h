@@ -2,7 +2,7 @@
 //  UIColor+Hex.h
 //  CardDemo
 //
-//  Created by ihenryhuang on 2019/10/31.
+//  Created by bbc6bae9 on 2019/10/31.
 //  Copyright © Howen Technology All rights reserved.
 //
 

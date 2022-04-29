@@ -2,7 +2,7 @@
 //  BDLoadingView.m
 //  JSServiceDemo
 //
-//  Created by ihenryhuang on 2022/1/31.
+//  Created by bbc6bae9 on 2022/1/31.
 //  Copyright © Howen Technology All rights reserved.
 //
 

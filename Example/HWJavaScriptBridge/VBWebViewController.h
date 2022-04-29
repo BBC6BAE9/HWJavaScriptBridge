@@ -2,7 +2,7 @@
 //  VBWebViewController.h
 //  JSServiceDemo
 //
-//  Created by ihenryhuang on 2022/3/25.
+//  Created by bbc6bae9 on 2022/3/25.
 //
 
 #import "BDBaseWebViewController.h"
