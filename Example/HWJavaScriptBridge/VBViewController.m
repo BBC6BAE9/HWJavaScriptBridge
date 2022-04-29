@@ -28,10 +28,6 @@
     [super viewDidLoad];
     
     self.title = @"JSContext环境运行bridge";
-	// Do any additional setup after loading the view, typically from a nib.
-#if PERFMONITOR_CRASH
-    [self addAndlayoutCrashMonitorBtn];
-#endif
     
     [self createUI];
     
