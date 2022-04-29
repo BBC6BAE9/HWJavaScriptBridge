@@ -9,11 +9,7 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-<figure class="half" align=center>
-    <img src="./jscontextbridgedemo.PNG" width = 30%>
-    <img src="./webviewbridgedemo.PNG" width = 30% >
-</figure>
-
+![bridge](./bridge.png)
 
 ## Requirements
 
